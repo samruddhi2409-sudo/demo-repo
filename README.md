@@ -1,4 +1,4 @@
 # demo-repo
 This is my first reprository
 <br>
-Author - Samruddhi Mahajan
+Author - Samruddhi Ramchabdra Mahajan
